@@ -32,3 +32,7 @@ Future work
 --
 * Add more different types of grid in order to make this game more interesting.
 * Try to figure out another way to allow the AI character to move.
+
+Vedio Link
+--
+https://youtu.be/hzsBnrTHe1I
